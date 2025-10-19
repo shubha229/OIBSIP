@@ -5,21 +5,16 @@ Each task is organized in its own folder with source code, requirements, and doc
 
 ---
 
-## 📁 Project Structure
+## 📁 Project 
 
-OIBSIP/
-│
-├── Task1_BMI_Tracker/
-│ ├── bmi_cli.py
-│ ├── bmi_gui.py
-│ ├── bmi_plot.py
-│ ├── requirements.txt
-│ └── README.md
-│
-├── Task2_.../ # Upcoming tasks
-├── Task3_.../
-│
-├── .gitignore
-├── README.md # (this file)
-└── venv/
+### 1. BMI Calculator
+- Command-line BMI calculator (Beginner)
+- GUI-based BMI calculator with historical data and trends (Advanced)
 
+[See BMI Calculator Details](bmi_calculator/README.md)
+
+### 2. Random Password Generator
+- Command-line password generator (Beginner)
+- GUI-based password generator with complexity rules and clipboard integration (Advanced)
+
+[See Password Generator Details](password_generator/README.md)
