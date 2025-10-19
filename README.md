@@ -21,5 +21,5 @@ OIBSIP/
 │
 ├── .gitignore
 ├── README.md # (this file)
-└── venv/ # virtual environment (not uploaded)
+└── venv/
 
