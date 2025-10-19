@@ -21,3 +21,7 @@ It includes:
    ```bash
    git clone https://github.com/<your-username>/OIBSIP.git
    cd OIBSIP/Task1_BMI_Tracker
+
+### Output
+<img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/e70beb07-eb9b-4cff-833e-82816a4d8e94" />
+
