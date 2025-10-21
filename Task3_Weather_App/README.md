@@ -22,12 +22,13 @@ It includes:
 ### Output
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/4db9f0fb-65e9-4214-b072-a4970c9742b3" />
 
-##### My output vs Google 
+##### My output vs Google (Almost accurate)
 <img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/ce671fe9-dae6-4a3a-98db-de0b5b4e7b06" />
 <img width="516" height="483" alt="image" src="https://github.com/user-attachments/assets/a9af1456-1985-4d2b-b6d6-c4ae261897d8" />
 
 <img width="1914" height="1022" alt="image" src="https://github.com/user-attachments/assets/65529cd4-c5d4-4827-81d4-32dd6b59e3b3" />
 <img width="525" height="480" alt="image" src="https://github.com/user-attachments/assets/e8f8eaf6-3e6a-4c0e-bd2a-5967589698f7" />
+
 
 
 
