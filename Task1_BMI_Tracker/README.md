@@ -23,5 +23,7 @@ It includes:
    cd OIBSIP/Task1_BMI_Tracker
 
 ### Output
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/cf6aa592-a0bf-4933-b98e-832362bf865a" />
+
 <img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/e70beb07-eb9b-4cff-833e-82816a4d8e94" />
 
