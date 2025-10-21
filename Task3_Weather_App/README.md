@@ -23,5 +23,6 @@ It includes:
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/4db9f0fb-65e9-4214-b072-a4970c9742b3" />
 My output vs Google 
 <img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/ce671fe9-dae6-4a3a-98db-de0b5b4e7b06" />
-![WhatsApp Image 2025-10-21 at 13 14 10_4e110309](https://github.com/user-attachments/assets/d3f5f5ad-c5d9-4a2b-a0d5-1a8e48308e26)
+https://image2url.com/images/1761032733136-8600d726-fc97-4aab-9ca9-1f66ca568c81.jpg
+
 
