@@ -118,6 +118,9 @@ def handle_calculate():
         result_label.config(text=f"{name or 'Unknown'}'s BMI: {bmi} ({category})", foreground="blue")
         save_bmi(name, weight, height, bmi, category)
 
+        # ✅ Clear inputs after saving
+        for entry in entries.values():
+            entry.delete(0, tk.END)
 
 ttk.Button(root, text="Calculate & Save", command=handle_calculate).pack(pady=10)
 ttk.Button(root, text="View BMI Trends", command=plot_bmi_trends).pack(pady=5)
