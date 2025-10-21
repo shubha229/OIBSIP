@@ -17,4 +17,8 @@ Each task is organized in its own folder with source code, requirements, and doc
 - Command-line password generator (Beginner)
 - GUI-based password generator with complexity rules and clipboard integration (Advanced)
 
-[See Password Generator Details]()
+## 3. Basic Weather App
+- Beginner: CLI app to fetch current weather (temp, humidity, condition) for a city or ZIP
+- Advanced: GUI app with city input, unit toggle (°C/°F), wind & humidity display, clears input after fetch
+
+[See Password Generator Details](Task3_Weather_App/README.md)
