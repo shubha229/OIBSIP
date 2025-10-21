@@ -1,6 +1,6 @@
 # 🧠 Task 2: Random Password Generator
 
-📌 **Description**  
+📌 Description
 The Random Password Generator is a Python-based application that helps users generate strong and secure passwords.  
 It includes:
 
