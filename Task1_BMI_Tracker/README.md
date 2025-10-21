@@ -25,5 +25,9 @@ It includes:
 ### Output
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/cf6aa592-a0bf-4933-b98e-832362bf865a" />
 
-<img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/e70beb07-eb9b-4cff-833e-82816a4d8e94" />
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/908fa7b8-db90-48c6-8d3b-406ac6fdecc0" />
+
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/8f8ed08f-2e24-4730-bcf4-d94b5e707010" />
+
+
 
