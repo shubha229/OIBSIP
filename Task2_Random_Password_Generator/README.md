@@ -1,6 +1,6 @@
 # 🧠 Task 2: Random Password Generator
 
-📌 Description
+### 📌 Description
 The Random Password Generator is a Python-based application that helps users generate strong and secure passwords.  
 It includes:
 
@@ -8,12 +8,12 @@ It includes:
 - A **GUI version** built with **Tkinter**  
 - Features for **password complexity rules** and **clipboard integration** for easy copying  
 
-⚙️ **Tech Stack**  
+### ⚙️ **Tech Stack**  
 - Python  
 - Tkinter (for GUI)  
 - Random module  
 
-🧩 **Installation & Usage**  
+### 🧩 **Installation & Usage**  
 
 Clone the repository:  
 ```bash
